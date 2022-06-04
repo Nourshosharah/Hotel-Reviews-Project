@@ -12,30 +12,30 @@ import config
 from sklearn.feature_extraction.text import CountVectorizer
 
 
-data_recomm_guests=pd.read_pickle(r"Data\df_guests_all.pkl")
+data_recomm_guests=pd.read_pickle("Data\df_guests_all.pkl")
 
-data_filters=pd.read_pickle(r"Data\data_filters.pkl")
+data_filters=pd.read_pickle("Data\data_filters.pkl")
 
 
-with open(r'Data\\HOTEL_NAME.npy', 'rb') as f2:
+with open('Data\HOTEL_NAME.npy', 'rb') as f2:
     hotels = np.load(f2,allow_pickle=True)
 
-with open(r'Data\\test.npy', 'rb') as f:
+with open('Data\test.npy', 'rb') as f:
     family = np.load(f,allow_pickle=True)
     Couple =  np.load(f,allow_pickle=True)
     Group =  np.load(f,allow_pickle=True)
     Solo =  np.load(f,allow_pickle=True)
     friends =  np.load(f,allow_pickle=True)
 
-with open(r'Data\\guests.npy', 'rb') as f2:
+with open('Data\guests.npy', 'rb') as f2:
     guests = np.load(f2,allow_pickle=True)
 
-with open(r'Data\\Reviewer_Nationality.npy', 'rb') as f2:
+with open('Data\Reviewer_Nationality.npy', 'rb') as f2:
     Reviewer_Nationality = np.load(f2,allow_pickle=True)
 
 
 
-with open(r'Data\\country.npy', 'rb') as f2:
+with open('Data\country.npy', 'rb') as f2:
     country = np.load(f2,allow_pickle=True)
 
 
