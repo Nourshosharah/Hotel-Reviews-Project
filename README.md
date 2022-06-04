@@ -47,7 +47,7 @@ If you want to visit Spain, Austria, Italy, France, the Netherlands or the Unite
 
 As part of the project, I have performed using StreamLit. we have learnt on the steps to take when performing an end-to-end project. This includes re-factoring of codes into functions so to easier compliation when compilin. In order to deploy a model, you will need to understand what you want to achieve and re-look at the code on how you could recode to achieve that.
 
-You may access the deployed site [here](). 
+You may access the deployed site [here](https://share.streamlit.io/nourshosharah/hotel-reviews-project/main/app_tf_idf.py). 
 
 
 ## Authors
