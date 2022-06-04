@@ -1,0 +1,175 @@
+timezones,code,continent,name,capital
+['Europe/Andorra'],AD,Europe,Andorra,Andorra la Vella
+['Asia/Kabul'],AF,Asia,Afghanistan,Kabul
+['America/Antigua'],AG,North America,Antigua and Barbuda,St. John's
+['Europe/Tirane'],AL,Europe,Albania,Tirana
+['Asia/Yerevan'],AM,Asia,Armenia,Yerevan
+['Africa/Luanda'],AO,Africa,Angola,Luanda
+"['America/Argentina/Buenos_Aires', 'America/Argentina/Cordoba', 'America/Argentina/Jujuy', 'America/Argentina/Tucuman', 'America/Argentina/Catamarca', 'America/Argentina/La_Rioja', 'America/Argentina/San_Juan', 'America/Argentina/Mendoza', 'America/Argentina/Rio_Gallegos', 'America/Argentina/Ushuaia']",AR,South America,Argentina,Buenos Aires
+['Europe/Vienna'],AT,Europe,Austria,Vienna
+"['Australia/Lord_Howe', 'Australia/Hobart', 'Australia/Currie', 'Australia/Melbourne', 'Australia/Sydney', 'Australia/Broken_Hill', 'Australia/Brisbane', 'Australia/Lindeman', 'Australia/Adelaide', 'Australia/Darwin', 'Australia/Perth']",AU,Oceania,Australia,Canberra
+['Asia/Baku'],AZ,Asia,Azerbaijan,Baku
+['America/Barbados'],BB,North America,Barbados,Bridgetown
+['Asia/Dhaka'],BD,Asia,Bangladesh,Dhaka
+['Europe/Brussels'],BE,Europe,Belgium,Brussels
+['Africa/Ouagadougou'],BF,Africa,Burkina Faso,Ouagadougou
+['Europe/Sofia'],BG,Europe,Bulgaria,Sofia
+['Africa/Bujumbura'],BI,Africa,Burundi,Bujumbura
+['Africa/Porto-Novo'],BJ,Africa,Benin,Porto-Novo
+['Asia/Brunei'],BN,Asia,Brunei Darussalam,Bandar Seri Begawan
+['America/La_Paz'],BO,South America,Bolivia,Sucre
+"['America/Noronha', 'America/Belem', 'America/Fortaleza', 'America/Recife', 'America/Araguaina', 'America/Maceio', 'America/Bahia', 'America/Sao_Paulo', 'America/Campo_Grande', 'America/Cuiaba', 'America/Porto_Velho', 'America/Boa_Vista', 'America/Manaus', 'America/Eirunepe', 'America/Rio_Branco']",BR,South America,Brazil,BrasÃ­lia
+['America/Nassau'],BS,North America,Bahamas,Nassau
+['Asia/Thimphu'],BT,Asia,Bhutan,Thimphu
+['Africa/Gaborone'],BW,Africa,Botswana,Gaborone
+['Europe/Minsk'],BY,Europe,Belarus,Minsk
+['America/Belize'],BZ,North America,Belize,Belmopan
+"['America/St_Johns', 'America/Halifax', 'America/Glace_Bay', 'America/Moncton', 'America/Goose_Bay', 'America/Blanc-Sablon', 'America/Montreal', 'America/Toronto', 'America/Nipigon', 'America/Thunder_Bay', 'America/Pangnirtung', 'America/Iqaluit', 'America/Atikokan', 'America/Rankin_Inlet', 'America/Winnipeg', 'America/Rainy_River', 'America/Cambridge_Bay', 'America/Regina', 'America/Swift_Current', 'America/Edmonton', 'America/Yellowknife', 'America/Inuvik', 'America/Dawson_Creek', 'America/Vancouver', 'America/Whitehorse', 'America/Dawson']",CA,North America,Canada,Ottawa
+"['Africa/Kinshasa', 'Africa/Lubumbashi']",CD,Africa,Democratic Republic of the Congo,Kinshasa
+['Africa/Brazzaville'],CG,Africa,Republic of the Congo,Brazzaville
+['Africa/Abidjan'],CI,Africa,CÃ´te d'Ivoire,Yamoussoukro
+"['America/Santiago', 'Pacific/Easter']",CL,South America,Chile,Santiago
+['Africa/Douala'],CM,Africa,Cameroon,YaoundÃ©
+"['Asia/Shanghai', 'Asia/Harbin', 'Asia/Chongqing', 'Asia/Urumqi', 'Asia/Kashgar']",CN,Asia,People's Republic of China,Beijing
+['America/Bogota'],CO,South America,Colombia,BogotÃ¡
+['America/Costa_Rica'],CR,North America,Costa Rica,San JosÃ©
+['America/Havana'],CU,North America,Cuba,Havana
+['Atlantic/Cape_Verde'],CV,Africa,Cape Verde,Praia
+['Asia/Nicosia'],CY,Asia,Cyprus,Nicosia
+['Europe/Prague'],CZ,Europe,Czech Republic,Prague
+['Europe/Berlin'],DE,Europe,Germany,Berlin
+['Africa/Djibouti'],DJ,Africa,Djibouti,Djibouti City
+['Europe/Copenhagen'],DK,Europe,Denmark,Copenhagen
+['America/Dominica'],DM,North America,Dominica,Roseau
+['America/Santo_Domingo'],DO,North America,Dominican Republic,Santo Domingo
+"['America/Guayaquil', 'Pacific/Galapagos']",EC,South America,Ecuador,Quito
+['Europe/Tallinn'],EE,Europe,Estonia,Tallinn
+['Africa/Asmera'],ER,Africa,Eritrea,Asmara
+['Africa/Addis_Ababa'],ET,Africa,Ethiopia,Addis Ababa
+['Europe/Helsinki'],FI,Europe,Finland,Helsinki
+['Pacific/Fiji'],FJ,Oceania,Fiji,Suva
+['Europe/Paris'],FR,Europe,France,Paris
+['Africa/Libreville'],GA,Africa,Gabon,Libreville
+['Asia/Tbilisi'],GE,Asia,Georgia,Tbilisi
+['Africa/Accra'],GH,Africa,Ghana,Accra
+['Africa/Banjul'],GM,Africa,The Gambia,Banjul
+['Africa/Conakry'],GN,Africa,Guinea,Conakry
+['Europe/Athens'],GR,Europe,Greece,Athens
+['America/Guatemala'],GT,North America,Guatemala,Guatemala City
+['America/Guatemala'],GT,North America,Haiti,Port-au-Prince
+['Africa/Bissau'],GW,Africa,Guinea-Bissau,Bissau
+['America/Guyana'],GY,South America,Guyana,Georgetown
+['America/Tegucigalpa'],HN,North America,Honduras,Tegucigalpa
+['Europe/Budapest'],HU,Europe,Hungary,Budapest
+"['Asia/Jakarta', 'Asia/Pontianak', 'Asia/Makassar', 'Asia/Jayapura']",ID,Asia,Indonesia,Jakarta
+['Europe/Dublin'],IE,Europe,Republic of Ireland,Dublin
+['Asia/Jerusalem'],IL,Asia,Israel,Jerusalem
+['Asia/Calcutta'],IN,Asia,India,New Delhi
+['Asia/Tehran'],IR,Asia,Iran,Tehran
+['Atlantic/Reykjavik'],IS,Europe,Iceland,ReykjavÃ­k
+['Europe/Rome'],IT,Europe,Italy,Rome
+['America/Jamaica'],JM,North America,Jamaica,Kingston
+['Asia/Tokyo'],JP,Asia,Japan,Tokyo
+['Africa/Nairobi'],KE,Africa,Kenya,Nairobi
+['Asia/Bishkek'],KG,Asia,Kyrgyzstan,Bishkek
+"['Pacific/Tarawa', 'Pacific/Enderbury', 'Pacific/Kiritimati']",KI,Oceania,Kiribati,Tarawa
+['Asia/Pyongyang'],KP,Asia,North Korea,Pyongyang
+['Asia/Seoul'],KR,Asia,South Korea,Seoul
+['Europe/Vaduz'],LI,Europe,Liechtenstein,Vaduz
+['Africa/Monrovia'],LR,Africa,Liberia,Monrovia
+['Africa/Maseru'],LS,Africa,Lesotho,Maseru
+['Europe/Vilnius'],LT,Europe,Lithuania,Vilnius
+['Europe/Luxembourg'],LU,Europe,Luxembourg,Luxembourg City
+['Europe/Riga'],LV,Europe,Latvia,Riga
+['Indian/Antananarivo'],MG,Africa,Madagascar,Antananarivo
+"['Pacific/Majuro', 'Pacific/Kwajalein']",MH,Oceania,Marshall Islands,Majuro
+['Europe/Skopje'],MK,Europe,Macedonia,Skopje
+['Africa/Bamako'],ML,Africa,Mali,Bamako
+['Asia/Rangoon'],MM,Asia,Myanmar,Naypyidaw
+"['Asia/Ulaanbaatar', 'Asia/Hovd', 'Asia/Choibalsan']",MN,Asia,Mongolia,Ulaanbaatar
+['Europe/Malta'],MT,Europe,Malta,Valletta
+['Indian/Mauritius'],MU,Africa,Mauritius,Port Louis
+['Indian/Maldives'],MV,Asia,Maldives,MalÃ©
+['Africa/Blantyre'],MW,Africa,Malawi,Lilongwe
+"['America/Mexico_City', 'America/Cancun', 'America/Merida', 'America/Monterrey', 'America/Mazatlan', 'America/Chihuahua', 'America/Hermosillo', 'America/Tijuana']",MX,North America,Mexico,Mexico City
+"['Asia/Kuala_Lumpur', 'Asia/Kuching']",MY,Asia,Malaysia,Kuala Lumpur
+['Africa/Maputo'],MZ,Africa,Mozambique,Maputo
+['Africa/Windhoek'],NA,Africa,Namibia,Windhoek
+['Africa/Niamey'],NE,Africa,Niger,Niamey
+['Africa/Lagos'],NG,Africa,Nigeria,Abuja
+['America/Managua'],NI,North America,Nicaragua,Managua
+['Europe/Amsterdam'],NL,Europe,Kingdom of the Netherlands,Amsterdam
+['Europe/Oslo'],NO,Europe,Norway,Oslo
+['Asia/Katmandu'],NP,Asia,Nepal,Kathmandu
+['Pacific/Nauru'],NR,Oceania,Nauru,Yaren
+"['Pacific/Auckland', 'Pacific/Chatham']",NZ,Oceania,New Zealand,Wellington
+['America/Panama'],PA,North America,Panama,Panama City
+['America/Lima'],PE,South America,Peru,Lima
+['Pacific/Port_Moresby'],PG,Oceania,Papua New Guinea,Port Moresby
+['Asia/Manila'],PH,Asia,Philippines,Manila
+['Asia/Karachi'],PK,Asia,Pakistan,Islamabad
+['Europe/Warsaw'],PL,Europe,Poland,Warsaw
+"['Europe/Lisbon', 'Atlantic/Madeira', 'Atlantic/Azores']",PT,Europe,Portugal,Lisbon
+['Pacific/Palau'],PW,Oceania,Palau,Ngerulmud
+['America/Asuncion'],PY,South America,Paraguay,AsunciÃ³n
+['Europe/Bucharest'],RO,Europe,Romania,Bucharest
+"['Europe/Kaliningrad', 'Europe/Moscow', 'Europe/Volgograd', 'Europe/Samara', 'Asia/Yekaterinburg', 'Asia/Omsk', 'Asia/Novosibirsk', 'Asia/Krasnoyarsk', 'Asia/Irkutsk', 'Asia/Yakutsk', 'Asia/Vladivostok', 'Asia/Sakhalin', 'Asia/Magadan', 'Asia/Kamchatka', 'Asia/Anadyr']",RU,Europe,Russia,Moscow
+['Africa/Kigali'],RW,Africa,Rwanda,Kigali
+['Pacific/Guadalcanal'],SB,Oceania,Solomon Islands,Honiara
+['Indian/Mahe'],SC,Africa,Seychelles,Victoria
+['Europe/Stockholm'],SE,Europe,Sweden,Stockholm
+['Asia/Singapore'],SG,Asia,Singapore,Singapore
+['Europe/Ljubljana'],SI,Europe,Slovenia,Ljubljana
+['Europe/Bratislava'],SK,Europe,Slovakia,Bratislava
+['Africa/Freetown'],SL,Africa,Sierra Leone,Freetown
+['Europe/San_Marino'],SM,Europe,San Marino,San Marino
+['Africa/Dakar'],SN,Africa,Senegal,Dakar
+['Africa/Mogadishu'],SO,Africa,Somalia,Mogadishu
+['America/Paramaribo'],SR,South America,Suriname,Paramaribo
+['Africa/Sao_Tome'],ST,Africa,SÃ£o TomÃ© and PrÃ­ncipe,SÃ£o TomÃ©
+['Africa/Lome'],TG,Africa,Togo,LomÃ©
+['Asia/Bangkok'],TH,Asia,Thailand,Bangkok
+['Asia/Dushanbe'],TJ,Asia,Tajikistan,Dushanbe
+['Asia/Ashgabat'],TM,Asia,Turkmenistan,Ashgabat
+['Pacific/Tongatapu'],TO,Oceania,Tonga,NukuÊ»alofa
+['Europe/Istanbul'],TR,Asia,Turkey,Ankara
+['America/Port_of_Spain'],TT,North America,Trinidad and Tobago,Port of Spain
+['Pacific/Funafuti'],TV,Oceania,Tuvalu,Funafuti
+['Africa/Dar_es_Salaam'],TZ,Africa,Tanzania,Dodoma
+"['Europe/Kiev', 'Europe/Uzhgorod', 'Europe/Zaporozhye', 'Europe/Simferopol']",UA,Europe,Ukraine,Kiev
+['Africa/Kampala'],UG,Africa,Uganda,Kampala
+"['America/New_York', 'America/Detroit', 'America/Kentucky/Louisville', 'America/Kentucky/Monticello', 'America/Indiana/Indianapolis', 'America/Indiana/Marengo', 'America/Indiana/Knox', 'America/Indiana/Vevay', 'America/Chicago', 'America/Indiana/Vincennes', 'America/Indiana/Petersburg', 'America/Menominee', 'America/North_Dakota/Center', 'America/North_Dakota/New_Salem', 'America/Denver', 'America/Boise', 'America/Shiprock', 'America/Phoenix', 'America/Los_Angeles', 'America/Anchorage', 'America/Juneau', 'America/Yakutat', 'America/Nome', 'America/Adak', 'Pacific/Honolulu']",US,North America,United States,"Washington, D.C."
+['America/Montevideo'],UY,South America,Uruguay,Montevideo
+"['Asia/Samarkand', 'Asia/Tashkent']",UZ,Asia,Uzbekistan,Tashkent
+['Europe/Vatican'],VA,Europe,Vatican City,Vatican City
+['America/Caracas'],VE,South America,Venezuela,Caracas
+['Asia/Saigon'],VN,Asia,Vietnam,Hanoi
+['Pacific/Efate'],VU,Oceania,Vanuatu,Port Vila
+['Africa/Lusaka'],ZM,Africa,Zambia,Lusaka
+['Africa/Harare'],ZW,Africa,Zimbabwe,Harare
+['Europe/Sarajevo'],BA,Europe,Bosnia and Herzegovina,Sarajevo
+['Asia/Phnom_Penh'],KH,Asia,Cambodia,Phnom Penh
+['Africa/Bangui'],CF,Africa,Central African Republic,Bangui
+['Africa/Ndjamena'],TD,Africa,Chad,N'Djamena
+['Indian/Comoro'],KM,Africa,Comoros,Moroni
+['Europe/Zagreb'],HR,Europe,Croatia,Zagreb
+['Asia/Dili'],TL,Asia,East Timor,Dili
+['America/El_Salvador'],SV,North America,El Salvador,San Salvador
+['Africa/Malabo'],GQ,Africa,Equatorial Guinea,Malabo
+['America/Grenada'],GD,North America,Grenada,St. George's
+"['Asia/Almaty', 'Asia/Qyzylorda', 'Asia/Aqtobe', 'Asia/Aqtau', 'Asia/Oral']",KZ,Asia,Kazakhstan,Astana
+['Asia/Vientiane'],LA,Asia,Laos,Vientiane
+"['Pacific/Truk', 'Pacific/Ponape', 'Pacific/Kosrae']",FM,Oceania,Federated States of Micronesia,Palikir
+['Europe/Chisinau'],MD,Europe,Moldova,ChiÅinÄu
+['Europe/Monaco'],MC,Europe,Monaco,Monaco
+['Europe/Podgorica'],ME,Europe,Montenegro,Podgorica
+['America/St_Kitts'],KN,North America,Saint Kitts and Nevis,Basseterre
+['America/St_Lucia'],LC,North America,Saint Lucia,Castries
+['America/St_Vincent'],VC,North America,Saint Vincent and the Grenadines,Kingstown
+['Pacific/Apia'],WS,Oceania,Samoa,Apia
+['Europe/Belgrade'],RS,Europe,Serbia,Belgrade
+['Africa/Johannesburg'],ZA,Africa,South Africa,Pretoria
+"['Europe/Madrid', 'Africa/Ceuta', 'Atlantic/Canary']",ES,Europe,Spain,Madrid
+['Asia/Colombo'],LK,Asia,Sri Lanka,Sri Jayewardenepura Kotte
+['Africa/Mbabane'],SZ,Africa,Swaziland,Mbabane
+['Europe/Zurich'],CH,Europe,Switzerland,Bern
