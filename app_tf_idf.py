@@ -139,7 +139,7 @@ def get_value(val,my_dict):
 app_mode = st.sidebar.selectbox('Select Page',['guest_featuers','fiter_by_name'])
 if app_mode=='guest_featuers':   
     
-    image = Image.open("Data\Cover.jpg")
+    image = Image.open("Data/Cover.jpg")
     st.image(image)
  
     st.title('Recommended by guest_featuers')
@@ -179,7 +179,7 @@ if app_mode=='guest_featuers':
 
 
 elif app_mode =='fiter_by_name':
-    image = Image.open("Data\Cover_1.jpg")
+    image = Image.open("Data/Cover_1.jpg")
     st.image(image)
 
     st.title('fiter by hotel name')
