@@ -51,21 +51,21 @@ def recommend_based_feateuers(data_recomm_guests,tags_for_custumer,from_where,to
     # TF-IDF feature extractor 
     tfidf = TfidfVectorizer()
     tfidf.fit(data_recomm_guests['all'])
-    tfidf_recipe = tfidf.transform(data_recomm_guests['all'])
+    tfidf_review = tfidf.transform(data_recomm_guests['all'])
     # save the tfidf model and encodings 
     with open(config.TFIDF_MODEL_PATH, "wb") as f:
         pickle.dump(tfidf, f)
     with open(config.TFIDF_ENCODING_PATH, "wb") as f:
-        pickle.dump(tfidf_recipe, f)
+        pickle.dump(tfidf_review, f)
 
     # # load in tdidf model and encodings 
     with open(config.TFIDF_ENCODING_PATH, 'rb') as f:
         tfidf_encodings = pickle.load(f)
     with open(config.TFIDF_MODEL_PATH, "rb") as f:
         tfidf = pickle.load(f)
-    ingredients_tfidf = tfidf.transform([tags_for_custumer])
+    custumer_tfidf = tfidf.transform([tags_for_custumer])
     # calculate cosine similarity between actual recipe ingreds and test ingreds
-    cos_sim = map(lambda x: cosine_similarity(ingredients_tfidf, x), tfidf_encodings)
+    cos_sim = map(lambda x: cosine_similarity(custumer_tfidf, x), tfidf_encodings)
     scores = list(cos_sim)
     # Filter top N recommendations 
     recommendations = get_recommendations(N, scores)

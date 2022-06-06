@@ -8,12 +8,12 @@ import pickle
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
-import config
+import config 
+
 from sklearn.feature_extraction.text import CountVectorizer
 from tfidf_and_reccomender_funs import recommend_based_feateuers,filter_by_name,get_value
 
 data_recomm_guests=pd.read_pickle("Data/df_guests_all.pkl")
-
 data_filters=pd.read_pickle("Data/data_filters.pkl")
 
 
@@ -43,8 +43,8 @@ with open('Data/country.npy', 'rb') as f2:
 
 
 
-app_mode = st.sidebar.selectbox('Select Page',['guest_featuers','fiter_by_name'])
-if app_mode=='guest_featuers':   
+app_mode = st.sidebar.selectbox('Select Page',['The_Best_For_You','guests_talks'])
+if app_mode=='The_Best_For_You':   
     
     image = Image.open("Data/Cover.jpg")
     st.image(image)
@@ -85,7 +85,7 @@ if app_mode=='guest_featuers':
         st.table (data_recommendations)
 
 
-elif app_mode =='fiter_by_name':
+elif app_mode =='guests_talks':
     image = Image.open("Data/Cover_1.jpg")
     st.image(image)
 
