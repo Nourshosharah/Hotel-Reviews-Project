@@ -35,7 +35,6 @@ If you want to visit Spain, Austria, Italy, France, the Netherlands or the Unite
 - Feature Engineering
 - Natural Language Processing (NLP) techniques
 - Term frequency–inverse document frequency (TF-IDF) encoding
-- Word embeddings
 - Sentiment analysis
 - Model Building and evaluation
 - Cosine Similarity
@@ -53,3 +52,20 @@ You may access the deployed site [here](https://share.streamlit.io/nourshosharah
 ## Authors
 [@ElsayedALy](https://github.com/SayedAly90)
 [@NourShosharah](https://github.com/Nourshosharah)
+
+<table align="center">
+  <tr>
+    <td align="center">
+    <a href="https://github.com/SayedAly90" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/106448211?v=4" width="100px;" alt="ElsayedALy"/>
+    <br />
+    <sub><b>ElsayedALy</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Nourshosharah" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/57573454?v=4" width="100px;" alt="Nourshosharah"/>
+    <br />
+    <sub><b>Nourshosharah</b></sub></a>
+    </td>
+  </tr>
+ </table>
