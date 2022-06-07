@@ -61,7 +61,9 @@ If you want to visit Spain, Austria, Italy, France, the Netherlands or the Unite
 - Natural Language Processing (NLP) techniques
 - Term frequency–inverse document frequency (TF-IDF) encoding
 - Sentiment analysis
-- Model Building and evaluation
+- Model Building and evaluation:
+-   1. we choose to build model to predict satisficatipn (satisfied of custumer or not) based on revierwer score ([first approach]([https://duckduckgo.com)](https://github.com/Nourshosharah/Hotel-Reviews-Project/blob/main/Modeling/modeling1-hotel-reviews.ipynb).)
+    2. we choose another approch to build sentiment analysis model based on (positive and negative reviews) ([second  approach]([https://duckduckgo.com).](https://github.com/Nourshosharah/Hotel-Reviews-Project/blob/main/Modeling/modeling-with-other-approach.ipynb))
 - Cosine Similarity
 - Content Recommendation system
 - Interactive StreamLit App
