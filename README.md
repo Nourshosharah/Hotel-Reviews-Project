@@ -67,8 +67,13 @@ If you want to visit Spain, Austria, Italy, France, the Netherlands or the Unite
 - Cosine Similarity
 - Content Recommendation system
 - Interactive StreamLit App
-
-
+## Kaggle:
+  you can try them on kaggle:
+    1. [Data analysis and EDA](https://www.kaggle.com/code/nourchocharah/data-preprocessing-eda-hotel-reviews)
+    2. [Business questions and solutions](https://www.kaggle.com/code/nourchocharah/business-solutions-hotel-reviews)
+    3. [Modeling approach 1](https://www.kaggle.com/code/nourchocharah/modeling1-hotel-reviews)
+    4. [Modeling approach 2](https://www.kaggle.com/code/nourchocharah/modeling-with-other-approach)
+  
 ## Deployment
 
 As part of the project, I have performed using StreamLit. we have learnt on the steps to take when performing an end-to-end project. This includes re-factoring of codes into functions so to easier compliation when compilin. In order to deploy a model, you will need to understand what you want to achieve and re-look at the code on how you could recode to achieve that.
