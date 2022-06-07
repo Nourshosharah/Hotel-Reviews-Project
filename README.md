@@ -41,7 +41,10 @@ If you want to visit Spain, Austria, Italy, France, the Netherlands or the Unite
 
 - Find best and Worst hotel in Europe
 - ![image](https://user-images.githubusercontent.com/57573454/172364645-bd6a69a7-d8c7-4b69-ae5a-7aab849009d9.png)
-- AND MUCH MORE 
+
+
+
+- [AND MUCH MORE](https://github.com/Nourshosharah/Hotel-Reviews-Project/blob/main/Business%20Questions%20And%20Solutions/Business_Solutions_Hotel_Reviews.ipynb).
 
 - Develop a recommendation system which gives a list of recommended hotels based on user’s hotel selection
 - Develop a recommendation system to show you best and worst reviews of hotel you selected
